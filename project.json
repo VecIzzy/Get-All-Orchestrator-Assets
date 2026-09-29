@@ -3,7 +3,9 @@
   "projectId": "32699a01-43b1-4e22-af4e-e4b153273471",
   "description": "This library will help get all non credential assets from Orchestrator ",
   "main": "NewActivity.xaml",
-  "dependencies": {},
+  "dependencies": {
+    "UiPath.System.Activities": "26.8.2"
+  },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
