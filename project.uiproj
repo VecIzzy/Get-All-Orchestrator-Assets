@@ -1,0 +1,6 @@
+{
+  "Name": "GetAllAssets",
+  "ProjectType": "Library",
+  "Description": "This library will help get all non credential assets from Orchestrator ",
+  "MainFile": "NewActivity.xaml"
+}
